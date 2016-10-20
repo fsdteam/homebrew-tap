@@ -1,6 +1,6 @@
-class FTools < Formula
-homepage "https://github.com/fsdteam/f-tools"
-url "https://github.com/fsdteam/f-tools/archive/0.0.2.tar.gz"
+class SimilarityTester < Formula
+homepage "https://github.com/fsdteam/similarity-tester"
+url "https://github.com/fsdteam/similarity-tester/archive/0.0.1.tar.gz"
 sha256 "2df834caddfed5ea489a137c3522ed07a6b0fc811c4471ce14e536b95e1be737"
 
 def install
