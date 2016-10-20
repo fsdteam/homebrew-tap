@@ -1,7 +1,7 @@
 class SimilarityTester < Formula
 homepage "https://github.com/fsdteam/similarity-tester"
 url "https://github.com/fsdteam/similarity-tester/archive/0.0.1.tar.gz"
-sha256 "2df834caddfed5ea489a137c3522ed07a6b0fc811c4471ce14e536b95e1be737"
+sha256 "f12b479c2f123078208bf4762fde1789aee9c0107a8b827e02352a57be91499e"
 
 def install
     bin.install "sim_php"
